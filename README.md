@@ -61,12 +61,6 @@
 [![](https://visitcount.itsvg.in/api?id=I-M_Lucky&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
-###
 
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/I-M-Lucky/I-M-Lucky/output/snake.svg" alt="Snake animation" />
-
-###
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
