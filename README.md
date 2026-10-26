@@ -32,7 +32,7 @@
   <a href="https://www.instagram.com/heavenly_demon_lucky" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" />
   </a>
-  <a href="mailto:seetaverma9910@gmail.com" target="_blank">
+  <a href="mailto:theoneandonlymenace9650@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" />
   </a>
   <a href="www.linkedin.com/in/lokesh-chand-verma-39b876373" target="_blank">
