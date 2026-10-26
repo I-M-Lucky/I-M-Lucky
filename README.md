@@ -47,8 +47,6 @@
 ![](https://nirzak-streak-stats.vercel.app/?user=I-M-Lucky&theme=dark&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=I-M-Lucky&theme=dark&hide_border=true&layout=compact)
 
-### 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=I-M-Lucky&theme=shadow_red&no-frame=false&no-bg=true&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
@@ -63,6 +61,3 @@
 
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-see whats wrong and fix it its for my github page
