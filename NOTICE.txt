@@ -1,0 +1,9 @@
+Fonts embedded in the SVG files (subset to basic Latin, base64 WOFF):
+- Inter (Black, Medium) - Copyright The Inter Project Authors, SIL Open Font License 1.1. https://github.com/rsms/inter  (see Inter-copyright.txt)
+- DejaVu Sans Mono - Bitstream Vera / DejaVu license, free to use, embed and redistribute. https://dejavu-fonts.github.io  (see DejaVu-copyright.txt)
+
+Icons:
+- GitHub mark: Octicons "mark-github" (MIT, GitHub Inc.) https://github.com/primer/octicons
+- LinkedIn, YouTube, Instagram and the technology badges are simple hand-drawn stand-ins (letter marks and basic shapes), not the official brand artwork.
+
+Images: id.png (avatar) and right_pointing.png (character) were supplied by the profile owner. Backgrounds were removed and the pointing character was mirrored.
