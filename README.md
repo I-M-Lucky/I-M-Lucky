@@ -1,53 +1,24 @@
-<h2 align="left">Hi 👋! My name is Lucky and I'm a Web Developer | Web Designer | Software Developer</h2>
+<div align="center">
 
-<img align="right" height="150" src="https://i.pinimg.com/originals/55/8b/9d/558b9d4e1cdfa805653a094539f106f9.gif" />
+![Intro](./assets/hero.svg?v=1)
 
-### 🧠 Tech Stack
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="TypeScript" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="HTML5" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="CSS3" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="30" alt="Express" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="MongoDB" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="Java" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="30" alt="TailwindCSS" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="30" alt="Three.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="C" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="30" alt="C++" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="Git" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="MySQL" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="GitHub" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" height="30" alt="Firebase" />
+![About](./assets/about-life.svg?v=1)
+
+![Stack](./assets/stack.svg?v=1)
+
+## Projects
+
+| Project | What it does | Link |
+| --- | --- | --- |
+| Add your first project | One accurate sentence about it | [Repo](https://github.com/I-M-Lucky) |
+| Add your second project | One accurate sentence about it | [Repo](https://github.com/I-M-Lucky) |
+| Add your third project | One accurate sentence about it | [Repo](https://github.com/I-M-Lucky) |
+
+![ID](./assets/id-dashboard.svg?v=1)
+
+![Connect](./assets/connect.svg?v=1)
+
+<!-- TODO: replace the LinkedIn, YouTube and Instagram links below with your own profile URLs. -->
+[LinkedIn](https://www.linkedin.com/) &nbsp;|&nbsp; [GitHub](https://github.com/I-M-Lucky) &nbsp;|&nbsp; [YouTube](https://www.youtube.com/) &nbsp;|&nbsp; [Instagram](https://www.instagram.com/)
+
 </div>
-
-### 🌐 Connect With Me
-<div align="left">
-  <a href="https://youtube.com/@the_majestic_supreme?feature=shared" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&style=for-the-badge" height="35" />
-  </a>
-  <a href="https://www.instagram.com/heavenly_demon_lucky" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" />
-  </a>
-  <a href="mailto:theoneandonlymenace9650@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" />
-  </a>
-  <a href="www.linkedin.com/in/lokesh-chand-verma-39b876373" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
-  </a>
-</div>
-
----
-
-
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
-
-
-
-
