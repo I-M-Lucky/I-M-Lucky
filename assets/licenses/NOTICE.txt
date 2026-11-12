@@ -1,3 +1,0 @@
-Typography: all text in the SVG files is converted to vector outlines of Cocogoose Pro Inline (Zetafonts, trial / personal non-commercial license, supplied by the profile owner). No font file is embedded in or distributed with this repo. Do not use this profile commercially without a Zetafonts commercial license: www.zetafonts.com/licensing
-
-Images: avatar and pointing character were supplied by the profile owner. Backgrounds were removed and the pointing character was mirrored.
