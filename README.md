@@ -10,15 +10,15 @@
 
 | Project | What it does | Link |
 | --- | --- | --- |
-| xincord | instagram+discord+X+reels | [Link](https://xincord.vercel.app/) |
-| Lamborghini  | A cool Lamborghini landing page with configurator | [Repo](https://github.com/I-M-Lucky) |
-| Tesla | A tesla 3d Website | [Repo](https://github.com/I-M-Lucky) |
+| Xincord | instagram+discord+X+reels (guest Login only) | [Link](https://xincord.vercel.app/) |
+| Lamborghini  | A cool Lamborghini landing page with configurator | [Link](https://lucky-lamborghini.vercel.app/) |
+| Tesla | A tesla 3d Website and many more | [Link](https://tesla-scroll-site-ebon.vercel.app/) |
 
 ![ID](./assets/id-dashboard.svg?v=1)
 
 ![Connect](./assets/connect.svg?v=1)
 
 <!-- TODO: replace the LinkedIn, YouTube and Instagram links below with your own profile URLs. -->
-[LinkedIn](https://www.linkedin.com/) &nbsp;|&nbsp; [YouTube](https://www.youtube.com/) &nbsp;|&nbsp; [Instagram](https://www.instagram.com/)
+[LinkedIn](www.linkedin.com/in/lokesh-chand-verma-39b876373) &nbsp;|&nbsp; [YouTube](https://www.youtube.com/@the_majestic_supreme) &nbsp;|&nbsp; [Instagram](https://www.instagram.com/heavenly_demon_lucky/)
 
 </div>
