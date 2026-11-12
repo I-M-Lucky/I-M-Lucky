@@ -10,7 +10,7 @@
 
 | Project | What it does | Link |
 | --- | --- | --- |
-| xincord | instagram+discord+X+reels | [Link] (https://xincord.vercel.app/) |
+| xincord | instagram+discord+X+reels | [Link](https://xincord.vercel.app/) |
 | Lamborghini  | A cool Lamborghini landing page with configurator | [Repo](https://github.com/I-M-Lucky) |
 | Tesla | A tesla 3d Website | [Repo](https://github.com/I-M-Lucky) |
 
