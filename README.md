@@ -10,9 +10,9 @@
 
 | Project | What it does | Link |
 | --- | --- | --- |
-| Add your first project | One accurate sentence about it | [Repo](https://github.com/I-M-Lucky) |
-| Add your second project | One accurate sentence about it | [Repo](https://github.com/I-M-Lucky) |
-| Add your third project | One accurate sentence about it | [Repo](https://github.com/I-M-Lucky) |
+| xincord | instagram+discord+X+reels (https://xincord.vercel.app/) |
+| Lamborghini  | A cool Lamborghini landing page with configurator | [Repo](https://github.com/I-M-Lucky) |
+| Tesla | A tesla 3d Website | [Repo](https://github.com/I-M-Lucky) |
 
 ![ID](./assets/id-dashboard.svg?v=1)
 
