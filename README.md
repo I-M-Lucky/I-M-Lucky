@@ -19,6 +19,6 @@
 ![Connect](./assets/connect.svg?v=1)
 
 <!-- TODO: replace the LinkedIn, YouTube and Instagram links below with your own profile URLs. -->
-[LinkedIn](https://www.linkedin.com/) &nbsp;|&nbsp; [GitHub](https://github.com/I-M-Lucky) &nbsp;|&nbsp; [YouTube](https://www.youtube.com/) &nbsp;|&nbsp; [Instagram](https://www.instagram.com/)
+[LinkedIn](https://www.linkedin.com/) &nbsp;|&nbsp; [YouTube](https://www.youtube.com/) &nbsp;|&nbsp; [Instagram](https://www.instagram.com/)
 
 </div>
